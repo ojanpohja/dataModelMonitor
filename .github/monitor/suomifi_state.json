@@ -2,22 +2,22 @@
   "initialized": true,
   "models": {
     "https://tietomallit.suomi.fi/model/rytj-kaava/": {
-      "version": null,
-      "resolved_url": null
+      "version": "1.0.5",
+      "resolved_url": "https://tietomallit.suomi.fi/model/rytj-kaava?ver=1.0.5"
     },
     "https://tietomallit.suomi.fi/model/ryhti-tont/": {
-      "version": null,
-      "resolved_url": null
+      "version": "1.0.7",
+      "resolved_url": "https://tietomallit.suomi.fi/model/ryhti-tont?ver=1.0.7"
     },
     "https://tietomallit.suomi.fi/model/ryhti-akr": {
-      "version": null,
-      "resolved_url": null
+      "version": "1.0.5",
+      "resolved_url": "https://tietomallit.suomi.fi/model/ryhti-akr?ver=1.0.5"
     },
     "https://tietomallit.suomi.fi/model/raklu/info": {
-      "version": null,
-      "resolved_url": null
+      "version": "1.1.0",
+      "resolved_url": "https://tietomallit.suomi.fi/model/raklu/info?ver=1.1.0"
     }
   },
-  "last_checked": "2026-08-11T07:10:30+00:00",
+  "last_checked": "2026-08-12T07:27:05+00:00",
   "last_healthcheck_sent": null
 }
