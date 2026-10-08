@@ -6,8 +6,8 @@
       "resolved_url": "https://tietomallit.suomi.fi/model/rytj-kaava?ver=1.0.5"
     },
     "https://tietomallit.suomi.fi/model/ryhti-tont/": {
-      "version": "1.0.7",
-      "resolved_url": "https://tietomallit.suomi.fi/model/ryhti-tont?ver=1.0.7"
+      "version": "1.0.8",
+      "resolved_url": "https://tietomallit.suomi.fi/model/ryhti-tont?ver=1.0.8"
     },
     "https://tietomallit.suomi.fi/model/ryhti-akr": {
       "version": "1.0.5",
@@ -18,6 +18,6 @@
       "resolved_url": "https://tietomallit.suomi.fi/model/raklu/info?ver=1.1.0"
     }
   },
-  "last_checked": "2026-10-07T12:52:24+00:00",
+  "last_checked": "2026-10-08T13:00:46+00:00",
   "last_healthcheck_sent": null
 }
