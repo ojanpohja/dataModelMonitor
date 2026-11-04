@@ -14,10 +14,10 @@
       "resolved_url": "https://tietomallit.suomi.fi/fi/model/ryhti-akr?ver=1.0.5"
     },
     "https://tietomallit.suomi.fi/model/raklu/info": {
-      "version": "1.1.0",
-      "resolved_url": "https://tietomallit.suomi.fi/fi/model/raklu/info?ver=1.1.0"
+      "version": "1.1.1",
+      "resolved_url": "https://tietomallit.suomi.fi/fi/model/raklu/info?ver=1.1.1"
     }
   },
-  "last_checked": "2026-11-03T13:48:46+00:00",
+  "last_checked": "2026-11-04T13:56:22+00:00",
   "last_healthcheck_sent": null
 }
